@@ -1,3 +1,3 @@
 # Image Slider
 
-NetlifyLink [link](hfimageslider.netlify.app)
+NetlifyLink [link](https://hfimageslider.netlify.app)
